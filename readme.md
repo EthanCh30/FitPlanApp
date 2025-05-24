@@ -8,13 +8,13 @@ Website
 
 # Design Pages
 
-Personal Template
+Personal Template: create template, edit template, start training
 
-History
+History: Calendar - Data - Exercise, Set, Rep, Weight, Rest
 
-Diet
+Diet: Metabolic Calculator, Daily calorie requirement, Daily Recipes: Protein, Carbs, Fat, Fiber
 
-Course
+Course: Some YouTube Video
 
 # Technologies Used
 
